@@ -1,4 +1,9 @@
-# Speedy Gonzales - die schnellste Maus von Mexiko!
+# Speedy Gonzales
+## Die schnellste Maus von Mexiko!
+*Maus
+*schnell
+*Mexiko
+*Sombrero
 
 Beschreibung: 
 Speedy ist eine Maus. Er ist schnell. Verdammt schnell. 
